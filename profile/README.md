@@ -7,7 +7,7 @@ A team of Full Stack Software Developers
 We're a team of 3, with experience writing code in JavaScript (React.Js & Vue.Js, Express.Js), Python (Flask & Django), Dart (Flutter), Java (Springboot) and C# (.Net). We're passionate about writing code, solving problems, automating stuff, and building software.
 
 * 🌍  We're based in Kingston, Jamaica
-* 🖥️  See or portfolio at [Our Portfolio](http://staeholder.com)
+* 🖥️  See or portfolio at [Staeholder](http://staeholder.com)
 * ✉️  You can contact us at [staeholders@gmail.com](mailto:staeholders@gmail.com)
 * 🚀  We're currently working on [Local876Plate](http://local876-plate-api.heroku.com)
 * 🧠  We're learning Backend Web Development using TypeScript, Express.Js and Prisma.
